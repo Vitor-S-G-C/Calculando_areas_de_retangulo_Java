@@ -1,17 +1,23 @@
-💼 Projeto 3: Calculadora de Salário (Salary Calculator)
-📝 Descrição
-Programa em Java que calcula o novo salário de um funcionário com base em um aumento percentual.
 
-⚙️ Tecnologias
-Java 21
 
-Scanner para entrada de dados
+## 📐 Projeto 2: Calculadora de Retângulo 
 
-Operações aritméticas
+### 📝 Descrição
 
-Formatação de strings com duas casas decimais
+Programa em Java que recebe altura e largura de um retângulo e calcula área, perímetro e diagonal.
 
-🚀 Funcionalidades
-✔️ Recebe o salário atual
-✔️ Recebe o percentual de aumento
-✔️ Calcula e exibe o novo salário formatado
+### ⚙️ Tecnologias
+
+* Java 21
+* Scanner para entrada de dados
+* Operações matemáticas básicas (uso de `Math.sqrt` e `Math.pow`)
+
+### 🚀 Funcionalidades
+
+✔️ Recebe altura e largura do retângulo
+✔️ Calcula e exibe a área
+✔️ Calcula e exibe o perímetro
+✔️ Calcula e exibe a diagonal
+
+---
+
